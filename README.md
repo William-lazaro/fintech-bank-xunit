@@ -1,4 +1,3 @@
-
 # FintechBank - Garantia da Qualidade de Software
 
 ## Visão Geral
@@ -102,7 +101,7 @@ Para executar os testes unitários da solução, utilize:
 dotnet test
 ```
 
-O comando executa os testes configurados no projeto FintechBank.Tests. O resultado permite verificar quais testes passaram ou falharam.
+O comando executa os testes configurados no projeto FintechBank.Tests. Na execução realizada durante o desenvolvimento, os 12 testes passaram, sem falhas ou testes ignorados.
 
 ## Testes Unitários Parametrizados
 

@@ -79,7 +79,7 @@ Aprova o empréstimo quando o valor da parcela compromete, no máximo, 30% da re
 No terminal, execute:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/fintech-bank-xunit.git
+git clone https://github.com/William-lazaro/fintech-bank-xunit.git
 cd fintech-bank-xunit
 ```
 

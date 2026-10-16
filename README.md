@@ -75,14 +75,13 @@ Aprova o empréstimo quando o valor da parcela compromete, no máximo, 30% da re
 
 ## Como Clonar o Repositório
 
-Requisitos: Git instalado no computador.
-
-Execute no terminal:
+No terminal, execute:
 
 ```bash
-git clone https://github.com/William-lazaro/fintech-bank-xunit.git
+git clone https://github.com/SEU-USUARIO/fintech-bank-xunit.git
 cd fintech-bank-xunit
 ```
+
 
 ## Como Compilar a Solução
 
@@ -95,7 +94,7 @@ dotnet build
 
 ## Como Executar os Testes
 
-Para executar os testes unitários da solução, utilize:
+Para executar os testes unitários da solução:
 
 ```bash
 dotnet test
@@ -114,4 +113,4 @@ Essa abordagem permite verificar diferentes cenários das regras de negócio, co
 
 ## Licença
 
-Este projeto está disponibilizado sob a licença MIT. Consulte o arquivo [LICENSE](https://github.com/William-lazaro/fintech-bank-xunit/blob/main/LICENSE) para conhecer seus termos.
+Este projeto está disponibilizado sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para conhecer seus termos.

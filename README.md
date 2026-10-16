@@ -24,7 +24,7 @@ O FintechBank é um projeto acadêmico desenvolvido para a disciplina de Garanti
 
 ```text
 FintechBank/
-├── FintechBank.sln
+├── FintechBank.slnx
 ├── FintechBank.App/
 │   ├── FintechBank.App.csproj
 │   ├── ContaCorrenteService.cs
@@ -76,14 +76,14 @@ Aprova o empréstimo quando o valor da parcela compromete, no máximo, 30% da re
 
 ## Como Clonar o Repositório
 
-No terminal, execute:
+Requisitos: Git instalado no computador.
+
+Execute no terminal:
 
 ```bash
 git clone https://github.com/William-lazaro/fintech-bank-xunit.git
 cd fintech-bank-xunit
 ```
-
-Substitua `SEU-USUARIO` pelo seu nome de usuário do GitHub.
 
 ## Como Compilar a Solução
 
@@ -96,7 +96,7 @@ dotnet build
 
 ## Como Executar os Testes
 
-Para executar os testes unitários da solução:
+Para executar os testes unitários da solução, utilize:
 
 ```bash
 dotnet test
@@ -115,4 +115,4 @@ Essa abordagem permite verificar diferentes cenários das regras de negócio, co
 
 ## Licença
 
-Este projeto está disponibilizado sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para conhecer seus termos.
+Este projeto está disponibilizado sob a licença MIT. Consulte o arquivo [LICENSE](https://github.com/William-lazaro/fintech-bank-xunit/blob/main/LICENSE) para conhecer seus termos.

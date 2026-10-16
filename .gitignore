@@ -1,0 +1,20 @@
+
+# Arquivos e pastas de compilação
+bin/
+obj/
+
+# Arquivos do Visual Studio
+.vs/
+*.user
+*.suo
+
+# Arquivos de configuração local
+appsettings.Development.json
+
+# Arquivos temporários
+*.tmp
+*.log
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
